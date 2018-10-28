@@ -7,6 +7,7 @@ public class Main {
         System.out.println(factorial(6));
     }
 
+    // this is factorial
     private static int factorial(int n) {
         if (n == 2) {
             return n;
