@@ -15,6 +15,10 @@ public class Main {
         return n * factorial(n -1);
     }
 
+    private static void testMethod() {
+        // asdf
+    }
+
 }
 
 
